@@ -11,3 +11,5 @@ TripSync is a dating app designed for digital nomads and avid travelers seeking 
 ## WireFrame (under construction)
 
 ![Day 1 Image](Img/day1.png)
+
+## Day 1 Login Setup
