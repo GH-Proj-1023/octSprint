@@ -7,3 +7,7 @@ TripSync is a dating app designed for digital nomads and avid travelers seeking 
 2. Filters: Provide filters based on travel interests or specific industry backgrounds to help users find compatible travel partners with other digital nomads or backpackers.  
 3. Safety Measures: Implement safety features such as emergency contacts, SOS alerts, and safety tips for traveling in different regions, ensuring the well-being of users during their trips.
 4. Post-Trip Sharing: Allow users to share their travel experiences and rate travel partners.
+
+## WireFrame (under construction)
+
+![Day 1 Image](Img/day1.png)
